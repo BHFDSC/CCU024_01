@@ -1,7 +1,7 @@
 # Mind the gaps: understanding and improving out-of-hours care for people with advanced illness and their informal carers
 
 ## How to cite this work
-> Citation details to follow
+Pask S, Davies JM, Mohamed A, Leniz J, Chambers RL, McFarlane P, Bone AE, Barclay S, Higginson IJ, Sleeman KE & Murtagh FEM (King’s College London, Cicely Saunders Institute; Hull York Medical School at the University of Hull; and University of Cambridge, UK). Better End of Life 2022. Mind the gaps: understanding and improving out-of-hours care for people with advanced illness and their informal carers. Research report. London (UK): Marie Curie. (November 2022) https://www.mariecurie.org.uk/globalassets/media/documents/policy/beol-reports-2022/better-end-of-life-report-2022.pdf
 
 ## Contents
 
